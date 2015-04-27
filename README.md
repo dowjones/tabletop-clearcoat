@@ -1,7 +1,6 @@
 tabletop-clearcoat
 ==================
 
-<<<<<<< HEAD
 Tiny footprint, proxy server for [tabletop](https://github.com/jsoma/tabletop) that caches responses from Google sheet API.
 
 Google imposes rate limits on API calls. Using this proxy server will reduce the number of calls directly hitting Google and thus keeping your application within the bounds of rate limits.
