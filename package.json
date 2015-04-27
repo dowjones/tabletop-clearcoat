@@ -1,6 +1,6 @@
 {
   "name": "tabletop-clearcoat",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Transparent proxy server for Tabletop",
   "main": "server.js",
   "scripts": {
